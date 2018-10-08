@@ -1,3 +1,3 @@
-# Redmine_A_Waste_of_Time
+# Redmine2Youtrack_Integration
 
-A sad week...
+Example on how to migrate data from redmine to youtrack
